@@ -16,4 +16,4 @@ def nuclear():
 
 @app.route("/thorium")
 def thorium():
-    return render_template("thorium.html")
+    return render_template("ThoriumPower.html")
