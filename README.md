@@ -34,18 +34,18 @@ To run the project run the following commands based on OS and terminal:
 
 - Linux
 
-    -       $ export FLASK_APP=hello.py 
+    -       $ export FLASK_APP=server.py 
     -       $ flask run  
 
 - Windows
     
     - Command Prompt:
         
-        -       set FLASK_APP=main.py
+        -       set FLASK_APP=server.py
         
         -       flask run
     
     - Powershell:
         
-        -       $env:FLASK_APP="main.py" 
+        -       $env:FLASK_APP="server.py" 
         -       flask run
