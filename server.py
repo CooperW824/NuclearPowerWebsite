@@ -17,3 +17,6 @@ def nuclear():
 @app.route("/thorium")
 def thorium():
     return render_template("ThoriumPower.html")
+
+
+app.run(port=5000)
