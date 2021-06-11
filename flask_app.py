@@ -19,4 +19,3 @@ def thorium():
     return render_template("ThoriumPower.html")
 
 
-app.run(host="0.0.0.0")
